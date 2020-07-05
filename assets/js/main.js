@@ -1,5 +1,5 @@
 /************* Main Js File ************************
-    Template Name: Taso - Personal Portfolio Template
+    Template Name: AtenaLink - Personal Portfolio Template
     Author: Tanmoy Dhar
     Version: 1.0
     Copyright 2018
