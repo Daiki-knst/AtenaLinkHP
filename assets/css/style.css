@@ -1517,7 +1517,8 @@
       margin-right: 10px;
       margin-bottom: 10px;
       }
-      section.contact {
+      section.contact,
+      section.about {
       background: #f2f2f2;
       }
       .contact-info-item i:hover {
